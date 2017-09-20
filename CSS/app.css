@@ -1,0 +1,23 @@
+p, .tipos{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    padding: 15px;
+}
+
+.asub{
+    width: 30%;
+    height: 30%;
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
